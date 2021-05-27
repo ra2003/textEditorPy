@@ -25,7 +25,7 @@ Hello! This is a simple text editor. You can use this just like NotePad.
 
 # Credits
 
-Nightmare
-Python
+- Nightmare
+- Python
 
 
