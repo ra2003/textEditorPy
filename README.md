@@ -21,7 +21,7 @@ Hello! This is a simple text editor. You can use this just like NotePad.
 - [Discord Bio](https://discord.bio/Nightmare69)
 - [Instagram](https://instagram.com/meiznightmare)
 - [Twitter](https://twitter.com/dafakeNightmare)
-- [GitHub](https://github.com/FaKeNiGhTmArE69)
+- [GitHub](https://github.com/nightmxre69)
 
 # Credits
 
