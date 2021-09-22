@@ -3,7 +3,7 @@
 Hello! This is a simple text editor. You can use this just like NotePad.
 
 ### Requirements
-- Python (I used Python 3.8.5)
+- Python (I used Python 3.9.x)
 - A code editor 
 - A desktop or laptop
 - Some time?
@@ -17,15 +17,11 @@ Hello! This is a simple text editor. You can use this just like NotePad.
 # Socials
  ### You can follow me on these platforms!
 
-- Discord: nightmarenotfound#5284
+- Discord: Insidious##0604
 - [Discord Bio](https://discord.bio/Nightmare69)
-- [Instagram](https://instagram.com/meiznightmare)
+- [Instagram](https://instagram.com/insidiosuthedev)
 - [Twitter](https://twitter.com/dafakeNightmare)
 - [GitHub](https://github.com/nightmxre69)
 
-# Credits
-
-- Nightmare
-- Python
 
 
